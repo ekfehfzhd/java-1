@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-void Main() {
+void main() {
     Scanner keyboard = new Scanner(System.in);
     int base;
     int height;

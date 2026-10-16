@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-void Main() {
+void main() {
     Scanner keyboard = new Scanner(System.in);
     float exchange;
     int money;
